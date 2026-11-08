@@ -30,6 +30,7 @@ class_name = "BackupTransferRunner"
 
 [[kv_namespaces]]
 binding = "ATTACHMENTS_KV"
+id = "8eebfe96ba864471b66207c926b20632"
 
 [[migrations]]
 tag = "v1-notifications-hub"
